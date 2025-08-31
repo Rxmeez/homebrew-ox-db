@@ -1,0 +1,6 @@
+{
+  "version": "v0.1.0",
+  "releaseDate": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')",
+  "downloadUrl": "https://github.com/rxmeez/homebrew-ox-db/raw/main/releases/v0.1.0/ox-db-v0.1.0-macOS.dmg",
+  "releaseNotes": "Initial release"
+}
