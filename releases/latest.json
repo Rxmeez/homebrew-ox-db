@@ -1,6 +1,6 @@
 {
-  "version": "v0.1.0",
-  "releaseDate": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')",
-  "downloadUrl": "https://github.com/rxmeez/homebrew-ox-db/raw/main/releases/v0.1.0/ox-db-v0.1.0-macOS.dmg",
-  "releaseNotes": "Initial release"
+  "version": "v0.1.6",
+  "releaseDate": "2025-08-31T23:50:21Z",
+  "downloadUrl": "https://github.com/rxmeez/homebrew-ox-db/raw/main/releases/v0.1.6/ox-db-v0.1.6-macOS.dmg",
+  "releaseNotes": "Release v0.1.6"
 }
