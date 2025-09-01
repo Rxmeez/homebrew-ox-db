@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-brew tap rxmeez/ox-db
+brew tap rxmeez/homebrew-ox-db
 brew install --cask ox-db
 ```
 
